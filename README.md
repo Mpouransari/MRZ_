@@ -15,7 +15,7 @@ https://mrz-pouransari.netlify.app
 
 - Clone the repository (you need to have [Git](https://git-scm.com) installed).
   
-      git clone https://github.com/Mpouransari/MRZ_.git
+      https://github.com/Mpouransari/MRZ_.git
 
 - Run Command :
 
