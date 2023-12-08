@@ -29,7 +29,7 @@ export const ContainerCards = ({ items = [], status, isDragging, handleDragging,
             onDragOver={handleDragOver}
         >
             <p>
-               <h2> {status} </h2>
+               <h1> {status} </h1>
                 </p>
             {items.map(item => (
                 status === item.status
