@@ -25,7 +25,7 @@ export const Title = () => {
                 <br></br>
                 <br></br>
 
-                    <img src="https://raw.githubusercontent.com/Mpouransari/MRZ_/main/image/MP.png" alt="persian Alphabet" width="100" height="100"></img>
+                    <img src="https://raw.githubusercontent.com/Mpouransari/MRZ_/main/image/Mp.png" alt="persian Alphabet" width="100" height="100"></img>
                 </div>
         </div>
         <br></br>
