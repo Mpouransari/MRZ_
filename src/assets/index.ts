@@ -33,7 +33,7 @@ export const data: Data[] = [
 
     {id: 33,content: 'مَسموم',status: 'م'},{id: 34,content: 'سَبَد',status: 'س'},
 
-    {id: 35,content: 'آرام',status: 'آ'},{id: 36,content: 'سَما',status: 'س'},
+    {id: 35,content: 'آرام',status: 'آ'},{id: 36,content: 'سَد',status: 'س'},
 
     {id: 37,content: 'تَرس',status: 'ت'},{id: 38,content: 'بَبر',status: 'ب'},
 
@@ -41,6 +41,65 @@ export const data: Data[] = [
 
     {id: 41,content: 'آدَم',status: 'آ'},{id: 42,content: 'مو',status: 'م'},
 
+    {id: 43,content: 'با',status: 'ب'},{id: 44,content: 'را',status: 'ر'},
 
+    {id: 45,content: 'با',status: 'ب'},{id: 46,content: 'را',status: 'ر'},
 
+    {id: 47,content: 'سَرداب',status: 'س'},{id: 48,content: 'راست',status: 'ر'},
+
+    {id: 49,content: 'او',status: 'آ'},{id: 50,content: 'آب',status: 'آ'},
+
+    {id: 51,content: 'سَم',status: 'س'},{id: 52,content: 'اَسباب',status: 'آ'},
+
+    {id: 53,content: 'اَدَب',status: 'آ'},{id: 54,content: 'آباد',status: 'آ'},
+
+    {id: 55,content: 'بامداد',status: 'ب'},{id: 56,content: 'سَما',status: 'س'},
+
+    {id: 57,content: 'مادام',status: 'م'},{id: 58,content: 'آداب',status: 'آ'},
+
+    {id: 59,content: 'اَساس',status: 'آ'},{id: 60,content: 'اَسبَم',status: 'آ'},
+
+    {id: 61,content: 'دام',status: 'د'},{id: 62,content: 'بَم',status: 'ب'},
+
+    {id: 63,content: 'سَبا',status: 'س'},{id: 64,content: 'بوم',status: 'ب'},
+
+    {id: 65,content: 'دود',status: 'د'},{id: 66,content: 'بوس',status: 'ب'},
+
+    {id: 67,content: 'سود',status: 'س'},{id: 68,content: 'تَب',status: 'ت'},
+
+    {id: 69,content: 'دوست',status: 'د'},{id: 70,content: 'دوستَم',status: 'د'},
+
+    {id: 71,content: 'بَستَم',status: 'ب'},{id: 72,content: 'سوت',status: 'س'},
+
+    {id: 73,content: 'سَمت',status: 'س'},{id: 74,content: 'توتَم',status: 'ت'},
+
+    {id: 75,content: 'دَستَم',status: 'د'},{id: 76,content: 'تَمام',status: 'ت'},
+
+    {id: 77,content: 'ماست',status: 'م'},{id: 78,content: 'آب',status: 'آ'},
+
+    {id: 79,content: 'مَرد',status: 'م'},{id: 80,content: 'بَرابَر',status: 'ب'},
+
+    {id: 81,content: 'سارا',status: 'س'},{id: 82,content: 'دَربار',status: 'د'},
+
+    {id: 83,content: 'بَردار',status: 'ب'},{id: 84,content: 'بَردارَم',status: 'ب'},
+
+    {id: 85,content: 'دور',status: 'د'},{id: 86,content: 'رود',status: 'ر'},
+
+    {id: 87,content: 'بَرادَرَت',status: 'ب'},{id: 88,content: 'دَر',status: 'د'},
+
+    {id: 89,content: 'بَد',status: 'ب'},{id: 90,content: 'باربَر',status: 'ب'},
+
+    {id: 91,content: 'اَبر',status: 'آ'},{id: 92,content: 'سَرما',status: 'س'},
+
+    {id: 93,content: 'مادَرَم',status: 'م'},{id: 94,content: 'سَمور',status: 'س'},
+
+    {id: 95,content: 'سوسمار',status: 'س'},{id: 96,content: 'راسو',status: 'ر'},
+    
+    {id: 97,content: 'مَرا',status: 'م'},{id: 98,content: 'روستا',status: 'ر'},
+
+    {id: 99,content: 'دارو',status: 'د'},{id: 100,content: 'تَرسو',status: 'ت'},
+
+    {id: 101,content: 'مار',status: 'م'},{id: 102,content: 'آرام',status: 'آ'},
+
+    {id: 103,content: 'باد',status: 'ب'},{id: 104,content: 'تَماس',status: 'ت'},
 ]
