@@ -1,13 +1,13 @@
 import { Data } from "../interfaces";
 
 export const data: Data[] = [
-    {id: 1,content: 'آمد',status: 'آ'},{id: 2,content: 'آمد',status: 'آ'},
+    {id: 1,content: 'آمد',status: 'آ'},{id: 2,content: 'اسب',status: 'آ'},{id: 3,content: 'آتوسا',status: 'آ'}،,{id: 4,content: 'اسد',status: 'آ'}،
    
-    {id: 6,content: 'بد',status: 'ب'},{id: 7,content: 'Flash',status: 'ب'},
+    {id: 5,content: 'بابا',status: 'ب'},{id: 6,content: 'بادام',status: 'ب'},
 
-    {id: 11,content: 'Green Lantern',status: 'س'},{id: 12,content: 'Green Lantern',status: 'س'},
+    {id: 7,content: 'سام',status: 'س'},{id: 8,content: 'سباn',status: 'س'},
 
-    {id: 16,content: 'Batman',status: 'د'},{id: 17,content: 'Batman',status: 'د'},
+    {id: 9,content: 'داس',status: 'د'},{id: 10,content: 'درد',status: 'د'},
 
-    {id: 21,content: 'Batman',status: 'ت'},{id: 22,content: 'Batman',status: 'ت'},
+    {id: 11,content: 'توت',status: 'ت'},{id: 12,content: 'تاب',status: 'ت'},
 ]
