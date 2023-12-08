@@ -1,7 +1,7 @@
 import { Data } from "../interfaces";
 
 export const data: Data[] = [
-    {id: 1,content: 'آمد',status: 'آ'},{id: 2,content: 'اسب',status: 'آ'},{id: 3,content: 'آتوسا',status: 'آ'}،,{id: 4,content: 'اسد',status: 'آ'}،
+    {id: 1,content: 'آمد',status: 'آ'},{id: 2,content: 'اسب',status: 'آ'},{id: 3,content: 'آتوسا',status: 'آ'},{id: 4,content: 'اسد',status: 'آ'},
    
     {id: 5,content: 'بابا',status: 'ب'},{id: 6,content: 'بادام',status: 'ب'},
 
