@@ -5,7 +5,8 @@ import { ContainerCards } from "./ContainerCards"
 
 
 const typesHero: Status[] = ['آ', 'ب', 'س','د','ت','ر','م']
-const typesHero2: Status[] = ['کلمه شیشم','کلمه پنجم','کلمه چهارم','کلمه سوم','کلمه دوم','کلمه اول']
+const typesHero2: Status[] = ['۶','۵','۴','۳','۲','۱']
+
 
 
 export const DragAndDrop = () => {
@@ -14,7 +15,15 @@ export const DragAndDrop = () => {
     return (
         <>
        <br></br>
+       <br></br>
+       <br></br>
+       <br></br>
+       <br></br>
+       <br></br>
+       <br></br>
        
+     
+      
         <h1>بخش جمله سازی</h1>
         
         <br></br>
