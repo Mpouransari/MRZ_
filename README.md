@@ -19,13 +19,13 @@ https://mrz-pouransari.netlify.app
 
 - Run Command :
 
-      npm init vite@latest
+      npm init MRZ@Tarantula
 
 - We create the project with Vite JS and select React with TypeScript.
 
 - Then we run the following command to navigate to the directory just created.
 
-      cd dnd-app
+      cd MRZ-Trantula
 
 - Then we install the dependencies.
 
