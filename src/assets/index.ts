@@ -102,4 +102,38 @@ export const data: Data[] = [
     {id: 101,content: 'مار',status: 'م'},{id: 102,content: 'آرام',status: 'آ'},
 
     {id: 103,content: 'باد',status: 'ب'},{id: 104,content: 'تَماس',status: 'ت'},
+
+    {id: 105,content: 'نور',status: 'ن'},{id: 106,content: 'نَردبان',status: 'ن'},
+
+    {id: 107,content: 'نادان',status: 'ن'},{id: 108,content: 'نَتَرس',status: 'ن'},
+
+    {id: 109,content: 'نَبَر',status: 'ن'},{id: 110,content: 'نَداد',status: 'ن'},
+
+    {id: 111,content: 'نَم نَم',status: 'ن'},{id: 112,content: 'نَدارم',status: 'ن'},
+
+    {id: 113,content: 'نَدارَد',status: 'ن'},{id: 114,content: 'نَبات',status: 'ن'},
+
+    {id: 115,content: 'دَرمان',status: 'د'},{id: 116,content: 'آبان',status: 'آ'},
+
+    {id: 117,content: 'دَندان',status: 'د'},{id: 118,content: 'آسمان',status: 'آ'},
+
+    {id: 119,content: 'آسان',status: 'آ'},{id: 120,content: 'مَن',status: 'م'},
+    
+    {id: 121,content: 'دانا',status: 'د'},{id: 122,content: 'اَنار',status: 'آ'},
+
+    {id: 123,content: 'بَندَر',status: 'ب'},{id: 124,content: 'مامان',status: 'م'},
+
+    {id: 125,content: 'داستان',status: 'د'},{id: 126,content: 'دامَن',status: 'د'},
+
+    {id: 127,content: 'اَنبار',status: 'آ'},{id: 128,content: 'بادبان',status: 'ب'},
+
+    {id: 129,content: 'ساسان',status: 'س'},{id: 130,content: 'سامان',status: 'س'},
+
+    {id: 131,content: 'آرمان',status: 'آ'},{id: 132,content: 'بَدَن',status: 'ب'},
+
+    {id: 133,content: 'دَربان',status: 'د'},{id: 134,content: 'آبادان',status: 'آ'},
+
+    {id: 135,content: 'نَدارَند',status: 'ن'},{id: 136,content: 'تابان',status: 'ت'},
+
+    {id: 137,content: 'باران',status: 'ب'},{id: 138,content: 'نان',status: 'ن'},
 ]
