@@ -4,7 +4,7 @@ import { Status } from "../interfaces"
 import { ContainerCards } from "./ContainerCards"
 
 
-const typesHero: Status[] = ['آ', 'ب', 'س','د','ت','ر','م']
+const typesHero: Status[] = ['آ', 'ب', 'س','د','ت','ر','م','ن']
 const typesHero2: Status[] = ['۶','۵','۴','۳','۲','۱']
 
 
