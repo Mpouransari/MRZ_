@@ -36,6 +36,8 @@ https://mrz-pouransari.netlify.app
 - vite version 2 the port was localhost:3000, but in the new version the port is localhost:5173)
 
       npm run dev
+  
+- View on http://localhost:5173/
 
   &nbsp;
 
