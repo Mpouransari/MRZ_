@@ -31,13 +31,15 @@ https://mrz-pouransari.netlify.app
 
       npm install
 
-- Then with this command we will raise the development server, and finally we go to a browser and access http://localhost:5173 (in 
-
-- vite version 2 the port was localhost:3000, but in the new version the port is localhost:5173)
-
+- Then with this command we will raise the development server.
+  
       npm run dev
   
 - View on http://localhost:5173/
+
+- finally we go to a browser and access http://localhost:5173
+    (invite version 2 the port was localhost:3000, but in the new version the port is localhost:5173)
+
 
   &nbsp;
 
