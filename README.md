@@ -74,3 +74,8 @@ https://mrz-pouransari.netlify.app
   در پایان این پروژه را به همسر و پسرم  تقدیم می کنم 🌹
 
 
+# Licence
+
+MIT License
+
+Copyright (c) 2024 Tarantula Trade
