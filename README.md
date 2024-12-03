@@ -78,4 +78,4 @@ https://mrz-pouransari.netlify.app
 
 MIT License
 
-Copyright (c) 2024 Tarantula Trade
+Copyright (c) 2025 Tarantula Trade
